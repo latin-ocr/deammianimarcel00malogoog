@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deammianimarcel00malogoog_0010.png"; bbox 0 0 3360 5446; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 233 2368 1319 2491">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 233 2368 1319 2491">
+     <span class='ocr_line' id='line_1_1' title="bbox 233 2368 1319 2491; baseline -0.003 -6"><span class='ocrx_word' id='word_1_1' title='bbox 233 2373 291 2486; x_wconf 66' lang='lat' dir='ltr'><strong>lm</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 337 2373 540 2486; x_wconf 63' lang='lat' dir='ltr'><strong>Amnum</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 584 2375 878 2491; x_wconf 63' lang='lat' dir='ltr'><em>mmmmm</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 923 2368 1319 2488; x_wconf 63' lang='lat' dir='ltr'>ulflnsssslomssus</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 325 2661 1232 2758">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 325 2661 1232 2758">
+     <span class='ocr_line' id='line_1_2' title="bbox 325 2661 1232 2758; baseline -0.014 -1"><span class='ocrx_word' id='word_1_5' title='bbox 325 2664 424 2758; x_wconf 73' lang='lat' dir='ltr'><strong>QUAE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 442 2666 500 2750; x_wconf 83' lang='grc' dir='ltr'><strong>ΑΙ]</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 523 2666 749 2752; x_wconf 80' lang='lat' dir='ltr'><strong>EXTERNAS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 771 2666 937 2753; x_wconf 79' lang='lat' dir='ltr'><strong>GENTES</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 958 2661 1232 2750; x_wconf 79' lang='lat' dir='ltr'><strong>PERTINEANT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1684 5446">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1684 5446">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1684 5446; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1684 5446; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
